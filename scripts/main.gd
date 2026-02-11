@@ -1,6 +1,6 @@
 extends Control
 # Liga-Liga (16:9) — PROMPT MESTRE v2 (1920x1080, SafeArea, fonte padrão, lousa)
-
+# # consumir da url: https://www.bellazuanon.com.br/liga-liga/jogo1.json
 @export var local_json_path: String = "res://data/ligaliga.json"
 
 @onready var title_label: Label = $UI/SafeArea/Root/Top/Title
