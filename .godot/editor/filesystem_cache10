@@ -1,0 +1,17 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1770847855
+README.md::TextFile::-1::1770463292::0::1::::<><><>0<>0<><>::
+::res://assets/::1770847811
+::res://assets/backgrounds/::1770847811
+chalkboard.png::CompressedTexture2D::7407132685831670835::1770463292::1770463332::1::::<><><>0<>0<>952a307ef5094954d78516dc3f50745f<>res://.godot/imported/chalkboard.png-f84ffa37353712e4acc469d014eec4ab.ctex::
+::res://assets/fonts/::1770847811
+chawp.ttf::FontFile::7092661203028144488::1770463292::1770463332::1::::<><><>0<>0<>cb86516b6dd7ecc2c3fcd8b2fc7f21ec<>res://.godot/imported/chawp.ttf-98f96307b7e3d6181fcdef196e0aa415.fontdata::
+::res://data/::1770847811
+ligaliga.json::JSON::-1::1770847759::0::1::::<><><>0<>0<><>::
+::res://scenes/::1770847811
+Main.tscn::PackedScene::9147861920967762429::1770464620::0::1::::<><><>0<>0<><>::uid://i7fkblag2e5a::::res://scripts/main.gd
+::res://scripts/::1770847812
+chalk_theme.gd::GDScript::6134919114521222643::1770463292::0::1::::ChalkTheme<>Node<><>0<>0<><>::
+main.gd::GDScript::627892349662336772::1770493658::0::1::::<>Control<><>0<>0<><>::
+match_game.gd::GDScript::2019227222749439688::1770463292::0::1::::MatchGame<>Node<><>0<>0<><>::
+match_option_button.gd::GDScript::8526683712269798457::1770463292::0::1::::MatchOptionButton<>Button<><>0<>0<><>::

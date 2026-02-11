@@ -1,0 +1,31 @@
+{
+  "game_type": "match_pairs",
+  "title": "Liga-Liga",
+  "instructions": "Clique em uma opção da esquerda e depois em uma da direita para formar o par correto.",
+  "pairs": [
+	{
+	  "left": "TUCANO",
+	  "right": "AVE"
+	},
+	{
+	  "left": "JACARÉ",
+	  "right": "RÉPTIL"
+	},
+	{
+	  "left": "BALEIA",
+	  "right": "MAMÍFERO"
+	},
+	{
+	  "left": "SAPO",
+	  "right": "ANFÍBIO"
+	},
+	{
+	  "left": "ARANHA",
+	  "right": "ARTRÓPODE"
+	},
+	{
+	  "left": "MINHOCA",
+	  "right": "ANELÍDEOS"
+	}
+  ]
+}
